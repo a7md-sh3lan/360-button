@@ -27,7 +27,7 @@ function App() {
       
       <div>
         <StyledConnectButton 
-          partnerId={'f167CmPA'}
+          partnerId={'1L1aTJPA'}
           callback={handleCallback}
         />
       </div>
